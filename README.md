@@ -28,4 +28,5 @@
 📰 [Subscribe to CyberDudeBivash ThreatWire Newsletter](https://cyberdudebivash.com/newsletter)  
 📩 iambivash@cyberdudebivash.com  
 Linkedin Page :  https://www.linkedin.com/company/cyberdudebivash/
+Gumroad Profile : https://bivashcyber.gumroad.com/
 
