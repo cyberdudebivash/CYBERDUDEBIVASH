@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Bivash Kumar Nayak  
 
-<!--
-**cyberdudebivash/CYBERDUDEBIVASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Founder of [CyberDudeBivash](https://cyberdudebivash.com)  
+🔐 Cybersecurity Researcher | Threat Intelligence | DevSecOps | App Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- Building **cybersecurity apps** (SessionShield, PhishRadar AI, Threat Analyzer, and more).  
+- Publishing **daily CVE intel** → [CyberBivash Blogspot](https://cyberbivash.blogspot.com)  
+- Exploring **crypto + DeFi threats** → [CryptoBivash Blog](https://cryptobivash.code.blog)  
+- Running **CyberDudeBivash ThreatWire Newsletter** for breaking threat intel.  
+
+---
+
+## 🔹 My Projects  
+- [Cyberdudebivash's CyberChef](https://github.com/14mb1v45h/Cyberdudebivash-s-CyberChef)  
+- SessionShield 🔒 (Defend against Evilginx-style MITM phishing)  
+- PhishRadar AI 🛡️ (Real-time phishing detection using NLP/LLMs)  
+- CyberDudeBivash Threat Analyzer 📊  
+
+---
+
+## 🔹 Connect with Me  
+🌐 [CyberDudeBivash.com](https://cyberdudebivash.com)  
+📢 [CyberBivash Blogspot](https://cyberbivash.blogspot.com)  
+💸 [CryptoBivash Blog](https://cryptobivash.code.blog)  
+📰 [Subscribe to CyberDudeBivash ThreatWire Newsletter](https://cyberdudebivash.com/newsletter)  
+📩 iambivash@cyberdudebivash.com  
