@@ -1,32 +1,26 @@
-# 👋 Hi, I’m Bivash Kumar Nayak  
+# CYBERDUDEBIVASH PVT LTD
 
-🚀 Founder of [CyberDudeBivash](https://cyberdudebivash.com)  
-🔐 Cybersecurity Researcher | Threat Intelligence | DevSecOps | App Developer  
+**Premium Handcrafted Software | Cybersecurity Intelligence | Web3 Research**
 
----
+We build stunning, modern, colorful dashboards and secure applications using cutting-edge technologies.  
+Specializing in cybersecurity threat intelligence, CVE analysis, DeFi risks, and custom digital solutions.
 
-## 🔹 About Me  
-- Building **cybersecurity apps** (SessionShield, PhishRadar AI, Threat Analyzer, and more).  
-- Publishing **daily CVE intel** → [CyberBivash Blogspot](https://cyberbivash.blogspot.com)  
-- Exploring **crypto + DeFi threats** → [CryptoBivash Blog](https://cryptobivash.code.blog)  
-- Running **CyberDudeBivash ThreatWire Newsletter** for breaking threat intel.  
+### What We Do
+- Modern Desktop & Web Applications (Tauri + React + Tailwind)
+- Custom Graphical Dashboards & Analytics Tools
+- Daily Cybersecurity Threat Reports & Vulnerability Research
+- Web3, DeFi & Blockchain Security Insights
 
----
+### Connect With Us
+🌐 [www.cyberdudebivash.com](https://www.cyberdudebivash.com)  
+📧 iambivash@cyberdudebivash.com  
+📝 Blogs:  
+   • [cyberbivash.blogspot.com](https://cyberbivash.blogspot.com)  
+   • [cyberdudebivash-news.blogspot.com](https://cyberdudebivash-news.blogspot.com)
+   . https://cryptobivash.code.blog 
 
-## 🔹 My Projects  
-- [Cyberdudebivash's CyberChef](https://github.com/14mb1v45h/Cyberdudebivash-s-CyberChef)  
-- SessionShield 🔒 (Defend against Evilginx-style MITM phishing)  
-- PhishRadar AI 🛡️ (Real-time phishing detection using NLP/LLMs)  
-- CyberDudeBivash Threat Analyzer 📊  
+*Building the future, one secure line of code at a time.*
 
----
-
-## 🔹 Connect with Me  
-🌐 [CyberDudeBivash.com](https://cyberdudebivash.com)  
-📢 [CyberBivash Blogspot](https://cyberbivash.blogspot.com)  
-💸 [CryptoBivash Blog](https://cryptobivash.code.blog)  
-📰 [Subscribe to CyberDudeBivash ThreatWire Newsletter](https://cyberdudebivash.com/newsletter)  
-📩 iambivash@cyberdudebivash.com  
-Linkedin Page :  https://www.linkedin.com/company/cyberdudebivash/
-Gumroad Profile : https://bivashcyber.gumroad.com/
-
+**CYBERDUDEBIVASH PVT LTD**  
+www.cyberdudebivash.com
+© 2024–2025 CyberDudeBivash Pvt Ltd. All Rights Reserved. Unauthorized reproduction, redistribution, or copying of any content is strictly prohibited.
