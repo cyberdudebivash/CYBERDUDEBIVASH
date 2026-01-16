@@ -23,4 +23,4 @@ Specializing in cybersecurity threat intelligence, CVE analysis, DeFi risks, and
 
 **CYBERDUDEBIVASH PVT LTD**  
 www.cyberdudebivash.com
-© 2024–2025 CyberDudeBivash Pvt Ltd. All Rights Reserved. Unauthorized reproduction, redistribution, or copying of any content is strictly prohibited.
+© 2024–2026 CyberDudeBivash Pvt Ltd. All Rights Reserved. Unauthorized reproduction, redistribution, or copying of any content is strictly prohibited.
