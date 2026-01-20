@@ -12,9 +12,9 @@ Specializing in cybersecurity threat intelligence, CVE analysis, DeFi risks, and
 - Web3, DeFi & Blockchain Security Insights
 
 ### Connect With Us
-🌐 [www.cyberdudebivash.com](https://www.cyberdudebivash.com)  
-📧 iambivash@cyberdudebivash.com  
-📝 Blogs:  
+[www.cyberdudebivash.com](https://www.cyberdudebivash.com)  
+iambivash@cyberdudebivash.com  
+Blogs:  
    • [cyberbivash.blogspot.com](https://cyberbivash.blogspot.com)  
    • [cyberdudebivash-news.blogspot.com](https://cyberdudebivash-news.blogspot.com)
    . https://cryptobivash.code.blog 
