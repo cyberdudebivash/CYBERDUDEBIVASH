@@ -103,7 +103,7 @@ Covering Cybersecurity, AI Security, Malware Research, CVEs, Threat Intelligence
 
 ### Connect With CYBERDUDEBIVASH
 
-### Contact: iambivash@cyberdudebivash.com
+### Contact: bivash@cyberdudebivash.com
 
  Global Operations | Remote & Enterprise-Ready
 
