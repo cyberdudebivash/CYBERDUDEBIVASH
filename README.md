@@ -1,146 +1,77 @@
-# CYBERDUDEBIVASH PVT LTD
+# CYBERDUDEBIVASH® ECOSYSTEM
 
-### CYBERDUDEBIVASH PVT LTD
-Global Cybersecurity Ecosystem | Threat Intelligence | AI Security | Zero-Trust Solutions
+**India-built software and cybersecurity ecosystem for AI security, cyber threat intelligence, identity security, agentic security, defensive tools, APIs, research, professional training and hands-on labs.**
 
-CYBERDUDEBIVASH® is a global cybersecurity ecosystem and authority platform delivering end-to-end security intelligence, advanced defensive technologies, enterprise-grade services, and professional cybersecurity education.
+**Official gateway:** https://www.cyberdudebivash.com/  
+**Headquarters:** 29, Korai-Sukinda-Ramchandrapur Rd, Ragadi, Jajpur Road, Odisha 755019, India  
+**Business contact:** contact@cyberdudebivash.in
 
-We are no longer just a software or tools company.
-We operate as a full-spectrum cybersecurity ecosystem spanning research, products, platforms, services, training, and real-world threat response.
+---
 
-### What CYBERDUDEBIVASH Is Today
+## What CYBERDUDEBIVASH® Builds
 
-CYBERDUDEBIVASH operates at the intersection of:
+CYBERDUDEBIVASH® connects specialized security platforms under one operating brand. The ecosystem is designed for organizations, SOC teams, developers, researchers, security professionals and learners who need practical capabilities across modern cybersecurity and AI security.
 
-Global Threat Intelligence & CVE Research
+Core areas include:
 
-AI-Driven Security Platforms & Automation
+- AI, LLM, agent, RAG and MCP security
+- Cyber threat intelligence and vulnerability context
+- Identity security and ITDR
+- SOC and detection engineering
+- Application, API and cloud security
+- Agentic security workflows
+- Defensive security tools and APIs
+- Security research and advisories
+- Professional cybersecurity and AI security training
+- Hands-on labs and deployable defensive assets
 
-Enterprise & Government-Grade Cyber Defense
+## Canonical Ecosystem Platforms
 
-Zero-Trust Architecture & Identity Security
+| Platform | Focus |
+|---|---|
+| [SENTINEL APEX™](https://intel.cyberdudebivash.com/) | Cyber threat intelligence, vulnerability context and SOC-oriented intelligence workflows |
+| [AI SECURITY HUB™](https://cyberdudebivash.in/) | AI, LLM, agent, RAG and MCP security; red teaming; governance and security operations |
+| [ThreatCore™ Tools](https://tools.cyberdudebivash.com/) | Defensive cybersecurity utilities and technical security resources |
+| [SENTINEL APEX™ Store & Labs](https://labs.cyberdudebivash.in/) | Licensed security tools, hands-on labs and deployable defensive assets |
+| [Research Blog & Advisories](https://blog.cyberdudebivash.in/) | Security research, vulnerability analysis and technical advisories |
+| [CYBERDUDEBIVASH® Official Gateway](https://www.cyberdudebivash.com/) | Corporate gateway, platform discovery, enterprise engagement and official business information |
+| [SENTINEL APEX™ Academy](https://academy.cyberdudebivash.com/) | Cybersecurity, AI security, threat intelligence and technology training |
+| [Global CTI Platform](https://cti.cyberdudebivash.in/) | Defender-oriented cyber threat intelligence and analysis |
+| [TRUSTX™ Identity Threat Defense](https://trustx.cyberdudebivash.com/) | Identity security and ITDR workflows |
+| [SENTINEL APEX™ Agent Swarms](https://intel.cyberdudebivash.com/swarm/) | Agentic security investigation and defensive workflows with human authorization controls |
+| [CYBERDUDEBIVASH® Connect](https://connect.cyberdudebivash.com/) | Unified discovery gateway across the ecosystem |
 
-Web, Cloud, Web3 & Supply-Chain Security
+## Security & Responsible Disclosure
 
-Professional Training, Labs & Knowledge Networks
+Security researchers can use the public Responsible Disclosure Program:
 
-Our mission is to secure digital ecosystems at scale, not just individual systems.
+https://cyberdudebivash.in/security
 
-### Core Ecosystem Capabilities
-Cybersecurity Intelligence & Research
+The program publishes scope, safe-harbor terms, reporting requirements and recognition details.
 
-Advanced CVE & zero-day vulnerability analysis
+## India & Global Engagement
 
-Malware, ransomware & APT threat research
+CYBERDUDEBIVASH® operates from Jajpur Road, Odisha, India. Digital platform access and remote engagements are available across India and internationally; on-site engagement is available in Odisha by arrangement.
 
-Supply-chain & platform-level risk intelligence
+India cybersecurity overview:
 
-Daily global threat reports & advisories
+https://www.cyberdudebivash.com/cybersecurity-india.html
 
-AI-Driven Security Platforms
+Platform comparison:
 
-Automated threat detection & analysis engines
+https://www.cyberdudebivash.com/platforms.html
 
-SOC & IR acceleration tooling
+## Official Channels
 
-AI-assisted vulnerability triage & prioritization
+- Website: https://www.cyberdudebivash.com/
+- LinkedIn: https://www.linkedin.com/company/cyberdudebivash/
+- X: https://x.com/CDBSENTINELAPEX
+- Medium: https://medium.com/@cyberdudebivash
+- YouTube: https://www.youtube.com/@CYBERDUDEBIVASHSentinelAPEX
+- GitHub: https://github.com/cyberdudebivash
+- Contact: contact@cyberdudebivash.in
 
-Security analytics & intelligence dashboards
+---
 
-Enterprise Security Services
-
-Incident response & breach containment
-
-Zero-Trust architecture design & implementation
-
-Cloud, API, Web & infrastructure hardening
-
-Security audits, posture assessments & risk advisory
-
- Web, Cloud & Web3 Security
-
-Web application & API security
-
-Cloud & container security
-
-Blockchain, DeFi & Web3 threat analysis
-
-Smart contract & protocol risk intelligence
-
-Professional Training & Knowledge Platforms
-
-Cybersecurity skill-building & research labs
-
-Threat intelligence & malware analysis training
-
-Blue team, red team & SOC enablement
-
-Industry-focused security education initiatives
-
-### CYBERDUDEBIVASH Ecosystem Platforms
-
-### Official Website
- https://www.cyberdudebivash.com
-
-### Production Apps & Tools Suite
- https://cyberdudebivash.github.io/CYBERDUDEBIVASH-PRODUCTION-APPS-SUITE/
-
-### Complete Ecosystem Overview
- https://cyberdudebivash.github.io/CYBERDUDEBIVASH-ECOSYSTEM
-
-### Top Security Tools & Research
- https://cyberdudebivash.github.io/cyberdudebivash-top-10-tools/
-
-### Research, Blogs & Intelligence Feeds
-
-https://cyberbivash.blogspot.com
-
-https://cyberdudebivash-news.blogspot.com
-
-https://cryptobivash.code.blog
-
-Covering Cybersecurity, AI Security, Malware Research, CVEs, Threat Intelligence, Web3 & Emerging Tech.
-
-### Connect With CYBERDUDEBIVASH
-
-### Contact: bivash@cyberdudebivash.com
-
- Global Operations | Remote & Enterprise-Ready
-
-### Authority Statement
-
-CYBERDUDEBIVASH® is not a single product or repository.
-It is a global cybersecurity ecosystem built to defend, research, educate, and secure the digital world.
-
-© 2026 CyberDudeBivash Pvt. Ltd.
-Global Cybersecurity Authority | AI-Driven Threat Intelligence | Zero-Trust Security
-
-### Explore the CYBERDUDEBIVASH® Ecosystem — a global cybersecurity authority delivering
-Advanced Security Apps, AI-Driven Tools, Enterprise Services, Professional Training, Threat Intelligence, and High-Impact Cybersecurity Blogs.
-
-Flagship Platforms & Resources
-
-### Top 10 Cybersecurity Tools & Research Hub
-https://cyberdudebivash.github.io/cyberdudebivash-top-10-tools/
-
-### CYBERDUDEBIVASH Production Apps Suite (Live Tools & Utilities)
-https://cyberdudebivash.github.io/CYBERDUDEBIVASH-PRODUCTION-APPS-SUITE/
-
-### Complete CYBERDUDEBIVASH Ecosystem Overview
-https://cyberdudebivash.github.io/CYBERDUDEBIVASH-ECOSYSTEM
-
-### Official CYBERDUDEBIVASH Portal
-https://cyberdudebivash.github.io/CYBERDUDEBIVASH
-
-### Official Website: https://www.cyberdudebivash.com
-
-
-
-Discover in-depth insights on Cybersecurity, Artificial Intelligence, Malware Research, Threat Intelligence & Emerging Technologies.
-
-2026 CyberDudeBivash Pvt. Ltd.
-Global Cybersecurity Authority | AI-Powered Threat Intelligence | Zero-Trust Security
-
-**CYBERDUDEBIVASH PVT LTD**  
-www.cyberdudebivash.com
-© 2024–2026 CyberDudeBivash Pvt Ltd. All Rights Reserved. Unauthorized reproduction, redistribution, or copying of any content is strictly prohibited.
+**CYBERDUDEBIVASH® ECOSYSTEM**  
+AI Security · Cyber Threat Intelligence · Identity Security · Agentic Security · Security Engineering · Tools · APIs · Research · Training · Labs
