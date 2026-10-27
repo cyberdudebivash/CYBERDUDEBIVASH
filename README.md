@@ -65,7 +65,6 @@ https://www.cyberdudebivash.com/platforms.html
 
 - Website: https://www.cyberdudebivash.com/
 - LinkedIn: https://www.linkedin.com/company/cyberdudebivash/
-- X: https://x.com/CDBSENTINELAPEX
 - Medium: https://medium.com/@cyberdudebivash
 - YouTube: https://www.youtube.com/@CYBERDUDEBIVASHSentinelAPEX
 - GitHub: https://github.com/cyberdudebivash
